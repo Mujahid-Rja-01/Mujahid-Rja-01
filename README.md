@@ -18,9 +18,13 @@ Welcome to my GitHub profile! I'm passionate about working with data, discoverin
 🛠️ Areas of Interest
 
 Data Science
+
 Data Analytics
+
 Python Programming
+
 Data Visualization
+
 Exploratory Data Analysis (EDA)
 🎯 My Goal
 
