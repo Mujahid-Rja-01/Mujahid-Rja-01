@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm passionate about working with data, discoverin
 📊 Aspiring Data Scientist and Data Analyst.
 🐍 Interested in Python programming and data analysis.
 📈 Passionate about data visualization and exploring datasets.
-💡 Enjoy learning new technologies and solving real-world problems with data.
-🌱 Continuously improving my skills and building projects.
+💡 Enjoy solving real-world problems with data.
+🌱 Always learning and building new projects.
 🛠️ Areas of Interest
 Data Science
 Data Analytics
@@ -19,23 +19,11 @@ Exploratory Data Analysis (EDA)
 
 To become a skilled Data Scientist and Data Analyst by continuously learning, exploring data, and building meaningful projects.
 
-🤝 Let's Connect!
+🌐 Connect With Me
+💼 LinkedIn: (https://www.linkedin.com/in/mujahid-rja-b4a868427/)
+📧 Email:  mujahidgdr@gmail.com
+📊 GitHub Activity
 
-I'm always interested in learning, collaborating, and connecting with people who share an interest in Data Science and Analytics.
+Thanks for visiting my profile! Feel free to explore my repositories, share ideas, and connect with me.
 
-Thanks for visiting my profile! 😊
-
-<!--
-**Mujahid-Rja-01/Mujahid-Rja-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Keep Learning, Keep Growing! 🚀
