@@ -1,4 +1,4 @@
-Hi there, I'm Mujahid Ria! 👋
+### Hi there, I'm Mujahid Ria! 👋
 👨‍💻 Aspiring Data Scientist | Data Analyst
 
 Welcome to my GitHub profile! I'm passionate about working with data, discovering meaningful insights, and turning raw data into useful information.
