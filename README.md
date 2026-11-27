@@ -4,12 +4,19 @@
 Welcome to my GitHub profile! I'm passionate about working with data, discovering meaningful insights, and turning raw data into useful information.
 
 🚀 About Me
+
 📊 Aspiring Data Scientist and Data Analyst.
+
 🐍 Interested in Python programming and data analysis.
+
 📈 Passionate about data visualization and exploring datasets.
+
 💡 Enjoy solving real-world problems with data.
+
 🌱 Always learning and building new projects.
+
 🛠️ Areas of Interest
+
 Data Science
 Data Analytics
 Python Programming
