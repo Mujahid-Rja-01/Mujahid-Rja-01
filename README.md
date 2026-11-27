@@ -1,4 +1,4 @@
-### Hi there, I'm Mujahid Ria! 👋
+### Hi there, I'm Mujahid Rja! 👋
 👨‍💻 Aspiring Data Scientist | Data Analyst
 
 Welcome to my GitHub profile! I'm passionate about working with data, discovering meaningful insights, and turning raw data into useful information.
@@ -21,6 +21,7 @@ To become a skilled Data Scientist and Data Analyst by continuously learning, ex
 
 🌐 Connect With Me
 💼 LinkedIn: (https://www.linkedin.com/in/mujahid-rja-b4a868427/)
+<br> 
 📧 Email:  mujahidgdr@gmail.com
 📊 GitHub Activity
 
